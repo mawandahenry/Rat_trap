@@ -1,0 +1,13 @@
+{
+  "name": "rat_trap",
+  "version": "1.0.0",
+  "description": "a simple online tracker of mice entering into a trap. it keeps track of number.",
+  "main": "index.js",
+  "repository": "https://github.com/mawandahenry/Rat_trap.git",
+  "author": "Mawanda Henry",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "johnny-five": "^1.2.0"
+  }
+}
